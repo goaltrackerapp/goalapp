@@ -7,7 +7,7 @@ workflows:
 
     # Интеграция с App Store Connect (из Team settings → Integrations)
     integrations:
-      app_store_connect: "Elliot Cooper"
+      app_store_connect: "Elliott Cooper"
 
     environment:
       xcode: latest
