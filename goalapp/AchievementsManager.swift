@@ -7,7 +7,7 @@
 import Foundation
 import Combine
 
-/// Описание одного достижения
+/// achievement desk
 struct Achievement: Identifiable, Codable, Hashable {
     let id: String
     let title: String
